@@ -140,8 +140,8 @@
 &trans        &kp NUMBER_1    &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp N5                                                        &kp NUMBER_6  &kp KP_NUM    &kp KP_EQUAL  &kp KP_DIVIDE  &kp KP_MULTIPLY  &kp PSCRN
 &trans        &kp ESCAPE      &kp T         &kp W         &kp E         &kp R                                                         &kp RPAR      &kp KP_N7     &kp KP_N8     &kp KP_N9      &kp KP_MINUS     &kp SLCK
 &kp Q         &kp LEFT_SHIFT  &kp A         &kp S         &kp D         &kp F                                                         &kp PRCNT     &kp KP_N4     &kp KP_N5     &kp KP_N6      &kp KP_PLUS      &none
-&trans        &kp TAB         &kp Z         &kp X         &kp C         &kp PG_DN  &trans     &trans  &to 0   &trans  &trans  &trans  &kp COMMA     &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3   &kp KP_ENTER     &trans
-&trans        &kp CAPS        &kp INS       &kp F11       &kp F12                  &kp SPACE  &trans  &trans  &trans  &trans  &trans                &kp KP_N0     &kp KP_N0     &kp KP_DOT     &kp KP_ENTER     &trans
+&trans        &kp TAB         &kp Z         &kp X         &kp C         &kp PG_DN  &trans     &trans  &to 0   &trans  &trans  &trans  &kp COMMA     &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3   &trans           &trans
+&trans        &kp CAPS        &kp INS       &kp F11       &kp F12                  &kp SPACE  &trans  &trans  &trans  &trans  &trans                &kp KP_N0     &kp KP_N0     &kp KP_DOT     &trans           &trans
             >;
         };
 
